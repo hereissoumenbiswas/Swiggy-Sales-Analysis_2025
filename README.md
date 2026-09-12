@@ -101,4 +101,4 @@ Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a cle
 
 `Microsoft Excel` · `PivotTables & PivotCharts` · `Data Cleaning` · `Calculated/Derived Columns` · `KPI Design` · `Dashboard Design` · `Business Requirement Analysis (BRD/SOW)` · `Stakeholder Reporting`
 
-![Dashboard Preview].()
+![Dashboard Preview].(https://github.com/hereissoumenbiswas/Swiggy-Sales-Analysis_2025/blob/main/Swiggy_Dashboard_Preview.png)
