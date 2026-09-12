@@ -10,8 +10,6 @@ An end-to-end Excel analytics project built from a client Business Requirement D
 | **Order Volume** | 1,97,430 orders |
 | **Tools Used** | Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Dashboard) |
 
----
-
 ## 🎯 Business Problem
 
 The client's BRD asked for two layers of analysis:
@@ -27,15 +25,11 @@ The client's BRD asked for two layers of analysis:
 - Quarterly summary (Sales, Ratings, Orders)
 - Top 5 cities by sales
 
----
-
 ## 🧹 Data Preparation
 
 - Started from raw transactional data (State, City, Order Date, Restaurant, Dish, Price, Rating, Rating Count).
 - Built a clean layer adding calculated fields: **Day of week, Quarter, Week number, and Food Type (Veg/Non-Veg)**, derived from the dish category — this is what unlocked the daily/weekly/food-type analysis the BRD asked for.
 - Fed the clean table into PivotTables to produce every metric the client requested, then wired those pivots into a single-page Dashboard.
-
----
 
 ## 📊 Executive KPIs
 
@@ -48,8 +42,6 @@ The client's BRD asked for two layers of analysis:
 | **Rating Count (engagement volume)** | 55,91,574 |
 
 > Note: "Rating Count" is summed exactly as the BRD defines it — a platform engagement volume metric — rather than a per-transaction review count, so it shouldn't be read as "1 rating per order."
-
----
 
 ## 🔎 Key Insights
 
@@ -74,8 +66,6 @@ Q1 (₹1.97 Cr, 73,096 orders) and Q2 (₹1.99 Cr, 74,163 orders) each cover 3 f
 **7. Weekly trend shows one standout spike.**
 Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a clear outlier in Week 8 (mid-February) at ₹17.6L — the single highest week in the dataset. Week 1 reads unusually low (₹8.8L) simply because it's a partial calendar week, not a real dip.
 
----
-
 ## 💡 Business Recommendations
 
 - **Staffing:** Prioritize courier availability for Saturdays, Thursdays, and Fridays; Tuesdays can run leaner.
@@ -83,8 +73,6 @@ Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a cle
 - **AOV growth:** Bundle or cross-sell Non-Veg items to Veg-heavy customers — it's the higher-value segment on a per-order basis.
 - **Regional strategy:** Protect the top 5 metro markets (33% of revenue) while running lower-cost, targeted campaigns in low-share states instead of a one-size-fits-all national push.
 - **Reporting hygiene:** Always report quarterly figures alongside a monthly-average normalization when the latest quarter is incomplete, to avoid stakeholders misreading a partial period as a downturn.
-
----
 
 ## 🛠️ Tools & Skills Demonstrated
 
