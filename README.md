@@ -1,4 +1,4 @@
-# 🍔 Swiggy Sales Analysis — Pan-India Business Performance (Jan–Aug 2025)
+# 🍔 Swiggy Sales Analysis — Pan-India Business Performance (Jan – Aug 2025)
 
 A complete analyst workflow in Excel — from a client-style BRD to a decision-ready dashboard — analyzing 8 months of pan-India food-delivery data to uncover sales trends, AOV drivers, and regional performance.
 
@@ -6,23 +6,23 @@ Practice project simulating a real client engagement, not an actual client deliv
 
 ## 📌 Project Overview
 
-**Objective**
+**Objective:**
 
 Give business stakeholders a clear view of platform health (sales, ratings, orders) and uncover operational patterns to guide staffing, promotions, and regional strategy
 
-**Data Period**
+**Data Period:**
 
 January 2025 – August 2025
 
-**Scope**
+**Scope:**
 
 Pan-India (28 states/UTs, 28 cities, 993 restaurants)
 
-**Order Volume**
+**Order Volume:**
 
 1,97,430 orders
 
-**Tools Used**
+**Tools Used:**
 
 Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Dashboard)
 
@@ -79,7 +79,7 @@ Bengaluru (Karnataka) alone brings in ₹54.6L — the single largest contributo
 
 **5. Service quality holds steady regardless of volume.**
 
-Average rating is virtually identical across all quarters (Q1: 4.343, Q2: 4.340, Q3: 4.342) even as order volume moves. Quality of service isn't slipping as the platform scales — a genuinely good sign for operations.
+Average rating is virtually identical across all quarters (Q1: 4.34, Q2: 4.34, Q3: 4.34) even as order volume moves. Quality of service isn't slipping as the platform scales — a genuinely good sign for operations.
 
 **6. Quarterly comparison needs a caveat — Q3 in this dataset is incomplete.**
 
@@ -100,6 +100,8 @@ Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a cle
 ## 🛠️ Tools & Skills Demonstrated
 
 `Microsoft Excel` · `PivotTables & PivotCharts` · `Data Cleaning` · `Calculated/Derived Columns` · `KPI Design` · `Dashboard Design` · `Business Requirement Analysis (BRD/SOW)` · `Stakeholder Reporting`
+
+📥 Full interactive workbook (raw data + pivots + live dashboard): 1EPzv8KYBUqpCtjDkVFiomhiAjGwvz63g
 
 ## 📊 Dashboard Preview
 
