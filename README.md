@@ -103,4 +103,4 @@ Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a cle
 
 ## 📊 Dashboard Preview
 
-![Swiggy Sales Dashboard]()
+![Swiggy Sales Dashboard](https://github.com/hereissoumenbiswas/Swiggy-Sales-Analysis_2025/blob/main/Swiggy_Dashboard_Preview.png)
