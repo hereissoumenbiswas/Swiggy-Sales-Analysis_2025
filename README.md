@@ -101,7 +101,7 @@ Across 35 weeks, sales mostly sit in a ₹14.6L–₹15.7L/week band, with a cle
 
 `Microsoft Excel` · `PivotTables & PivotCharts` · `Data Cleaning` · `Calculated/Derived Columns` · `KPI Design` · `Dashboard Design` · `Business Requirement Analysis (BRD/SOW)` · `Stakeholder Reporting`
 
-📥 Full interactive workbook (raw data + pivots + live dashboard): (https://drive.google.com/drive/folders/1EPzv8KYBUqpCtjDkVFiomhiAjGwvz63g)
+📥 Full workbook (raw data + pivots + live dashboard): [Download here] (https://drive.google.com/drive/folders/1EPzv8KYBUqpCtjDkVFiomhiAjGwvz63g)
 
 ## 📊 Dashboard Preview
 
