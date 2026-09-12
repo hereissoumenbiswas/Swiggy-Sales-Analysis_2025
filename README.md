@@ -4,11 +4,16 @@ An end-to-end Excel analytics project built from a client Business Requirement D
 
 ## 📌 Project Overview
 
-**Objective** | Give business stakeholders a clear view of platform health (sales, ratings, orders) and uncover operational patterns to guide staffing, promotions, and regional strategy |
-| **Data Period** | January 2025 – August 2025 |
-| **Scope** | Pan-India (28 states/UTs, 28 cities, 993 restaurants) |
-| **Order Volume** | 1,97,430 orders |
-| **Tools Used** | Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Dashboard) |
+**Objective**
+Give business stakeholders a clear view of platform health (sales, ratings, orders) and uncover operational patterns to guide staffing, promotions, and regional strategy
+**Data Period**
+January 2025 – August 2025
+**Scope**
+Pan-India (28 states/UTs, 28 cities, 993 restaurants)
+**Order Volume**
+1,97,430 orders
+**Tools Used**
+Microsoft Excel (Power Pivot, PivotTables, PivotCharts, Dashboard) |
 
 ## 🎯 Business Problem
 
